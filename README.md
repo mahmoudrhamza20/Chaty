@@ -1,4 +1,4 @@
-# chatty_pal
+# Chaty
 
 A new Flutter project.
 
